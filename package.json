@@ -1,0 +1,11 @@
+{
+  "name": "youtube_clone_nullclass",
+  "version": "1.0.0",
+  "description": "A Full Stack Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jatin Shakya",
+  "license": "ISC"
+}
